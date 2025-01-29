@@ -18,4 +18,12 @@ git add <.> <-A>
 git push
 ```
 
+Para cambiarme de rama y crear una nueva
+```
+git checkout -b unidad
+```
 
+Para ver en que rama estoy
+```
+git branch
+```
